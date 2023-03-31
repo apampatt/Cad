@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "FRC2022")(type "KiCad")(uri "${KIPRJMOD}/FRC2022.kicad_sym")(options "")(descr ""))
+  (lib (name "rev_ph")(type "KiCad")(uri "C:/Users/bobgg/Downloads/rev_ph.kicad_sym")(options "")(descr ""))
+  (lib (name "roboriodrawing")(type "KiCad")(uri "C:/Users/bobgg/Documents/GrabCAD/FRC 2022/10000 - Robot Assembly/13000-Electrical Tower/Electrical/Kicad/roboriodrawing.kicad_sym")(options "")(descr ""))
+)
